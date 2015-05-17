@@ -1,0 +1,6 @@
+c:\users\uzair\documents\visual studio 2012\Projects\hackclient\hackclient\bin\Debug\hackclient.exe.config
+c:\users\uzair\documents\visual studio 2012\Projects\hackclient\hackclient\bin\Debug\hackclient.exe
+c:\users\uzair\documents\visual studio 2012\Projects\hackclient\hackclient\bin\Debug\hackclient.pdb
+c:\users\uzair\documents\visual studio 2012\Projects\hackclient\hackclient\obj\Debug\hackclient.exe
+c:\users\uzair\documents\visual studio 2012\Projects\hackclient\hackclient\obj\Debug\hackclient.pdb
+C:\Users\Uzair\Documents\Visual Studio 2012\Projects\hackclient\hackclient\obj\Debug\hackclient.csprojResolveAssemblyReference.cache

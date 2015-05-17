@@ -1,0 +1,6 @@
+c:\users\uzair\documents\visual studio 2012\Projects\hackserver\hackserver\bin\Debug\hackserver.exe.config
+c:\users\uzair\documents\visual studio 2012\Projects\hackserver\hackserver\bin\Debug\hackserver.exe
+c:\users\uzair\documents\visual studio 2012\Projects\hackserver\hackserver\bin\Debug\hackserver.pdb
+c:\users\uzair\documents\visual studio 2012\Projects\hackserver\hackserver\obj\Debug\hackserver.exe
+c:\users\uzair\documents\visual studio 2012\Projects\hackserver\hackserver\obj\Debug\hackserver.pdb
+c:\users\uzair\documents\visual studio 2012\Projects\hackserver\hackserver\obj\Debug\hackserver.csprojResolveAssemblyReference.cache
